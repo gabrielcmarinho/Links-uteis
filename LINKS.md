@@ -23,7 +23,7 @@
 * [Video Course](https://www.youtube.com/c/CursoemV%C3%ADdeo/playlists) - Free basic courses for beginners
 * [Digital Innovation One](http://digitalinnovation.one/) - Free teaching platform that develops and connects talent
 * [Duolingo](https://www.duolingo.com) - The world's best way to learn a language
-* [Facebook Business] (https://www.facebook.com/business/learn/courses) Facebook Marketing Courses
+* [Facebook Business](https://www.facebook.com/) Facebook Marketing Courses
 * [Flexbox Defense](http://www.flexboxdefense.com/) - Learn flexbox with a game
 * [Flexbox Froggy](http://flexboxfroggy.com/) - Online tool for studying Flexbox (CSS)
 * [Flukeout](http://flukeout.github.io/) - Online application to learn HTML, CSS in a practical way
