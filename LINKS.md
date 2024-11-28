@@ -47,6 +47,7 @@
 * [Hackerone](https://www.hackerone.com/) - Vulnerability research and bug bounty platform
 * [HackTheBox](https://www.hackthebox.com) - A massive, online cybersecurity training platform, allowing individuals, companies, universities and all kinds of organizations around the world to level up their hacking skills.
 * [Portswigger](https://portswigger.net/web-security) - Web hacking course
+* [pwn.guide](https://pwn.guide) - Cybersecurity learning website, with a free, unlimited VM sandbox & about 100 tutorials.
 * [TryHackMe](https://tryhackme.com) -  A free online platform for learning cyber security, using hands-on exercises and labs, all through your browser!
 
 ## 📚 Books
