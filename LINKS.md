@@ -147,6 +147,7 @@
 * [Password Generator](https://danieldeev.github.io/password-generator/) - A simple password generator with a focus on security
 * [Photopea](https://www.photopea.com/) - Cloud photoshop editor
 * [Online C Compiler](https://www.onlinegdb.com/online_c_compiler) - Tool to compile C online
+* [Ray.so](https://ray.so/) - Powerful and aesthetic tool to make code images
 * [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - ReactJS debug tool
 * [React Hook Form](https://react-hook-form.com/) - Validate your project forms using React or React Native
 * [RESP.app](https://resp.app/) - GUI tool for redis. Save, manipulate and erase data within your redis
@@ -292,6 +293,7 @@
 * [Iconmonstr](https://iconmonstr.com/) - Website with 316 free icon collections
 * [Iconscout](https://iconscout.com/) - Site brings together a large collection of free icons
 * [LineIcons](https://lineicons.com/icons) - 2000+ line icons style
+* [Ray.so Icon Maker](https://ray.so/icon) - Easy and extensive icon maker for programmers and lazy frontend developers
 * [Streamline](https://app.streamlineicons.com) - Library full of icons to use
 
 ## 🔤 Developer Docs
