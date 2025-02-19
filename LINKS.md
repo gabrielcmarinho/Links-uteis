@@ -293,6 +293,7 @@
 * [Iconmonstr](https://iconmonstr.com/) - Website with 316 free icon collections
 * [Iconscout](https://iconscout.com/) - Site brings together a large collection of free icons
 * [LineIcons](https://lineicons.com/icons) - 2000+ line icons style
+* [Ray.so Icon Maker](https://ray.so/icon) - Easy and extensive icon maker for programmers and lazy frontend developers
 * [Streamline](https://app.streamlineicons.com) - Library full of icons to use
 
 ## 🔤 Developer Docs
